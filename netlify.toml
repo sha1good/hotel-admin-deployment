@@ -2,8 +2,7 @@
     publish = "build"
 
 [[redirects]]
-  from = "/*"
+  from = "*"
   to = "https://hotel-booking-application.onrender.com/api"
   status = 200
-  
 }
