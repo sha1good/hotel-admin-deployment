@@ -1,0 +1,9 @@
+[build]
+    publish = "build"
+
+[[redirects]]
+  from = "/*"
+  to = "https://hotel-booking-application.onrender.com/api"
+  status = 200
+  
+}
